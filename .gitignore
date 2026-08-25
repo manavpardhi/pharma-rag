@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Data (Don't commit large files or local DBs)
+data/chroma_db/
+data/raw/
